@@ -220,28 +220,25 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {120518968,132472033},--Sudo users
+    sudo_users = {77456755},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.0
+    about_text = [[Metal bot 2.0
     
      Hello my Good friends 😀🖐🏻
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @offline_MrMetal
    〰〰〰〰〰〰〰〰
-   🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
+   🚩 Our admin is : 
+   🔰 @offline_MrMetal
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    
    !feedback (your ideas and messages)
 ]],
     help_text = [[
-Creed bots Help for mods : 😈
+Metal bots Help for mods : 😈
 Plugins : 🔻
 
 1. banhammer ⭕️
@@ -322,7 +319,7 @@ set some one to global admin🔸
 remove somone from global admin🔹
 〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
+!stats Metalbot (sudoers)✔️
 shows bt stats🔚
 
 !stats🔘
@@ -337,8 +334,7 @@ send maseage to admins via bot🔈
 will tag users©
 〰〰〰〰〰〰〰〰〰
 🔜 more plugins 
-⚠️ We are Creeds ... ⚠️
-our channel : @creedantispam_channel🔋
+⚠️ I am Metal ... ⚠️
 You Can user both "!" & "/" for them🎧
 ]]
 
